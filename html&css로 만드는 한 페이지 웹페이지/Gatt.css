@@ -1,11 +1,68 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
 img{
-  width: 100px;
+  width: 250px;
+  padding-bottom: 55px;
 }
 
-header{
-  background-color: rgb(189, 33, 189);
+h1{
+  width: 600px;
+  font-size: 40px;
+  font-weight: bolder;
+  color:rgba(97, 39, 163, 0.75);
+  margin: auto;
+  padding-bottom: 25px;
 }
 
-div{
-  
+.Big-Box{
+  font-size: 15px;
+  width: 750px;
+  padding: 25px 25px;
+  text-align: left;
+  background-color: rgba(97, 39, 163, 0.75);
+  border-radius: 10px;
+  color: rgb(255,255,255);
+  margin: auto;
+}
+
+h2{
+  font-size: 18px;
+}
+
+li{
+  color: rgb(244, 248, 4);
+  list-style:;
+}
+
+ol{
+  color: rgb(255,255,255);
+}
+
+span{
+  color: rgb(1,1,1);
+  font-weight: bolder;
+  background-color: rgb(255, 218, 162);
+  padding: 1px 2px 1px 2px;
+  border-radius: 3px;
+}
+
+#box-model {
+  background-color: rgb(245, 202, 60);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgb(1,1,1);
+  margin-bottom: 200px;
+}
+
+a{
+  text-decoration: none;
+}
+
+#last-a {
+  font-size: 13px;
+  color: rgba(1,1,1,0.6);
+  margin-top: 30px;
 }
