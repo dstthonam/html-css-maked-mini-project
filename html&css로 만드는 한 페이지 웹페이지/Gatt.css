@@ -1,23 +1,28 @@
-body{
+body {
   font-family: 'Roboto', sans-serif;
-  text-align: center;
+  background-color: rgba(206, 186, 228, 0.75);
 }
 
-img{
-  width: 250px;
-  padding-bottom: 55px;
-}
-
-h1{
-  width: 600px;
-  font-size: 40px;
+h1 {
+  width: 800px;
+  font-size: 50px;
   font-weight: bolder;
   color:rgba(97, 39, 163, 0.75);
   margin: auto;
   padding-bottom: 25px;
 }
 
-.Big-Box{
+header {
+  text-align: center;
+  margin: 32px;
+}
+
+header img {
+  width: 300px;
+  padding-bottom: 30px;
+}
+
+.Big-Box {
   font-size: 15px;
   width: 750px;
   padding: 25px 25px;
@@ -28,7 +33,7 @@ h1{
   margin: auto;
 }
 
-h2{
+h2 {
   font-size: 18px;
 }
 
