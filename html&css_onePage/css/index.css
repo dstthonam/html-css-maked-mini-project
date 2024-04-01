@@ -2,7 +2,6 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: rgba(206, 186, 228, 0.75);
 }
-
 h1 {
   width: 800px;
   font-size: 50px;
@@ -11,17 +10,14 @@ h1 {
   margin: auto;
   padding-bottom: 25px;
 }
-
 header {
   text-align: center;
   margin: 32px;
 }
-
 header img {
   width: 300px;
   padding-bottom: 30px;
 }
-
 main {
   font-size: 16px;
   width: 750px;
@@ -33,24 +29,18 @@ main {
   color: rgb(255,255,255);
   margin: 32px auto;
 }
-
-h2 {
-  font-size: 18px;
-}
-
+h2 { font-size: 18px; }
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
 li{
-  color: rgb(244, 248, 4);
+  color: rgb(255,255,255);
   margin: 14px 0;
   padding-left: 10px;
   border-left: 5px solid transparent;
 }
-
 a{
   text-decoration: none;
   color: rgb(60, 21, 70);
@@ -59,31 +49,24 @@ a{
   border-radius: 4px;
   background-color: rgb(241, 202, 143);
 }
-
-a:hover, 
-a:active {
+a:hover, a:active {
   background-color: rgb(231, 172, 83);
 }
-
 footer{
   text-align: center;
   margin-bottom: 100px;
 }
-
 footer p {
   color: rgb(231, 172, 83);
   margin-top: 30px;
 }
-
 .point {
-  color: rgb(255,255,255);
+  color: rgb(244, 248, 4);
   border-color: rgb(244, 248, 4);
 }
-
 .highlighter {
   font-weight: bold;
 }
-
 #box-model {
   background-color: rgb(245, 202, 60);
   padding: 10px 20px;
@@ -91,7 +74,6 @@ footer p {
   color: rgb(60, 21, 70);
   margin-bottom: 200px;
 }
-
 #last-a {
   font-size: 13px;
   color: rgba(1,1,1,0.6);
